@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 41e38dd644d92134c9a5ea17eec9684d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tourney SemiCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0e9bfed218f7e8459154795f3c8138c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

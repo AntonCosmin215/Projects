@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 07a46fee7e44ef14fafed957e5704e9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tourney SemiCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03bd431ef554d834e98cc46730d74878, type: 3}
+  - {fileID: 12800000, guid: a0e9bfed218f7e8459154795f3c8138c, type: 3}
+  - {fileID: 12800000, guid: 643517ea93a92904b9f2d60b8562f45a, type: 3}
+  - {fileID: 12800000, guid: 6328e40bdd2188f4093a4e28bde2fe08, type: 3}
+  - {fileID: 12800000, guid: 41e38dd644d92134c9a5ea17eec9684d, type: 3}
+  - {fileID: 12800000, guid: c567b93adcbf48f4cb9f2d5b970ffc6b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
